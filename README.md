@@ -2,7 +2,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+jasmin is a simple webserver written in c on top of mongoose.
 
 ## Getting Started <a name = "getting_started"></a>
 
